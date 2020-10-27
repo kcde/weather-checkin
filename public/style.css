@@ -1,0 +1,21 @@
+.nav {
+    margin-bottom: 20px;
+}
+.coord {
+    background-color: black;
+    color: white;
+    display: block;
+    max-width: 300px;
+    padding: 0.2rem 2rem;
+    border-radius: 10px;
+    margin: 2rem 0;
+}
+
+.checkins .coord {
+    background-color: rgb(25, 78, 12);
+    color: red;
+}
+
+.checkins {
+    display: none;
+}
